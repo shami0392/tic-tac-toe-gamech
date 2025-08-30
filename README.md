@@ -1,4 +1,4 @@
-# tic-tac-toe-gamech
+# tic-tac-toe-game
 A simple and fun Tic Tac Toe game built using HTML, CSS, and JavaScript. Play against a friend on the same device!
 
 Features_
